@@ -1,3 +1,5 @@
+package taller3.televisores;
+
 public class Control {
     //Atributos
     private TV tv;
